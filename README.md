@@ -34,3 +34,6 @@ npm run test:e2e
 ```
 npm run test:unit
 ```
+### The SPA is on the default page with route '/'
+
+### Mockable.io is down, so local data was used.
